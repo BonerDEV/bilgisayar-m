@@ -1,0 +1,2 @@
+# bilgisayar-m
+bilgisayarım
